@@ -1,4 +1,4 @@
-# ReddiFake (ReddiTech), by Felix Portier & Florian Langevillier
+# ReddiFake (ReddiTech)
 
 ![reddit_icon](https://user-images.githubusercontent.com/90611083/158350202-27655711-45f6-47a5-bae9-ffa6552013e1.png)
 
